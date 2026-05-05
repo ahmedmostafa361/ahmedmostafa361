@@ -11,7 +11,7 @@
 - 💙 Flutter Developer
 - 📱 Build mobile apps with clean UI
 - 🌐 HTML & CSS (Responsive Design)
-- 🌱 Learning Advanced Flutter & Clean Architecture
+- 🌱 Solid understanding of Clean Architecture and advanced Flutter concepts
 
 ---
 
